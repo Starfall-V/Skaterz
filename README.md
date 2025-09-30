@@ -39,10 +39,9 @@ A retro-styled 2D endless runner game featuring a skateboarding zombie character
 - **Audio**: Howler.js 2.2.4 for sound effects and music
 - **Input**: Unified keyboard, mouse, and touch controls
 
-### Blockchain Ready (Configured)
-- **Hedera Network**: Ready for NFT integration and decentralized features
-- **HashPack Wallet**: Wallet connection capability for future features
-
+### Hedera Powered (Configured)
+- **Hedera Network**: Receive STAR and unlock additional characters with NFTs you hold
+- **Wallet Connect**: Configured Wallet Connect to securely connect your Hedera Wallet
 ## 📁 Project Structure
 
 ```
